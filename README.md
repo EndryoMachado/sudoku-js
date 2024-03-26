@@ -1,2 +1,2 @@
 # sudoku-js
-Algor implementado em Javascript para resolver problemas de Sudoku
+Algoritmo implementado em Javascript para resolver problemas de Sudoku
